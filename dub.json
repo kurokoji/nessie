@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"nazuna"
+	],
+	"copyright": "Copyright © 2021, nazuna",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "nessie"
+}

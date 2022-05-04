@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dxa
+dxa.so
+dxa.dylib
+dxa.dll
+dxa.a
+dxa.lib
+dxa-test-*
+*.exe
+*.o
+*.obj
+*.lst
